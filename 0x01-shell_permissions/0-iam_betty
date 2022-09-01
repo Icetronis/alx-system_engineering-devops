@@ -1,2 +1,2 @@
 #!/bin/bash
-chown /tmp/my_first_directory/betty
+su - betty
